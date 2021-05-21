@@ -1,0 +1,381 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+180,1,15/12/2018 20:00,Stade Auguste-Delaune,Stade de Reims,RC Strasbourg Alsace,2 - 1
+179,1,16/12/2018 15:00,Stade des Costières,Nîmes Olympique,LOSC,2 - 3
+178,1,16/12/2018 17:00,Allianz Riviera,OGC Nice,AS Saint-Etienne,1 - 1
+175,1,16/12/2018 21:00,Parc Olympique Lyonnais,Olympique Lyonnais,AS Monaco,3 - 0
+172,1,18/12/2018 19:30,Stade Michel d'Ornano,SM Caen,Toulouse FC,2 - 1
+1,2,10/08/2018 20:45,Stade Vélodrome,Olympique de Marseille,Toulouse FC,4 - 0
+2,2,11/08/2018 17:00,Stade de la Beaujoire,FC Nantes,AS Monaco,1 - 3
+3,2,11/08/2018 20:00,Stade Raymond Kopa,Angers SCO,Nîmes Olympique,3 - 4
+4,2,11/08/2018 20:00,Stade Pierre-Mauroy,LOSC,Stade Rennais FC,3 - 1
+5,2,11/08/2018 20:00,Stade de la Mosson,Montpellier Hérault SC,Dijon FCO,1 - 2
+6,2,11/08/2018 20:00,Allianz Riviera,OGC Nice,Stade de Reims,0 - 1
+7,2,11/08/2018 20:00,Stade Geoffroy-Guichard,AS Saint-Etienne,EA Guingamp,2 - 1
+8,2,12/08/2018 15:00,Parc Olympique Lyonnais,Olympique Lyonnais,Amiens SC,2 - 0
+9,2,12/08/2018 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,RC Strasbourg Alsace,0 - 2
+10,2,12/08/2018 21:00,Parc des Princes,Paris Saint-Germain,SM Caen,3 - 0
+11,3,17/08/2018 20:45,Stade Auguste-Delaune,Stade de Reims,Olympique Lyonnais,1 - 0
+12,3,18/08/2018 17:00,Stade de Roudourou,EA Guingamp,Paris Saint-Germain,1 - 3
+13,3,18/08/2018 20:00,Stade de la Licorne,Amiens SC,Montpellier Hérault SC,1 - 2
+14,3,18/08/2018 20:00,Stade Michel d'Ornano,SM Caen,OGC Nice,1 - 1
+15,3,18/08/2018 20:00,Stade Gaston Gérard,Dijon FCO,FC Nantes,2 - 0
+16,3,18/08/2018 20:00,Stade Louis II,AS Monaco,LOSC,0 - 0
+17,3,18/08/2018 20:00,Roazhon Park,Stade Rennais FC,Angers SCO,1 - 0
+18,3,19/08/2018 15:00,Stade de la Meinau,RC Strasbourg Alsace,AS Saint-Etienne,1 - 1
+19,3,19/08/2018 17:00,Stadium Municipal,Toulouse FC,Girondins de Bordeaux,2 - 1
+20,3,19/08/2018 21:00,Stade des Costières,Nîmes Olympique,Olympique de Marseille,3 - 1
+21,4,24/08/2018 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,RC Strasbourg Alsace,2 - 0
+22,4,25/08/2018 17:00,Parc des Princes,Paris Saint-Germain,Angers SCO,3 - 1
+23,4,25/08/2018 20:00,Stade de la Licorne,Amiens SC,Stade de Reims,4 - 1
+24,4,25/08/2018 20:00,Stade de la Mosson,Montpellier Hérault SC,AS Saint-Etienne,0 - 0
+25,4,25/08/2018 20:00,Stade de la Beaujoire,FC Nantes,SM Caen,1 - 1
+26,4,25/08/2018 20:00,Allianz Riviera,OGC Nice,Dijon FCO,0 - 4
+27,4,25/08/2018 20:00,Stadium Municipal,Toulouse FC,Nîmes Olympique,1 - 0
+28,4,26/08/2018 15:00,Stade Pierre-Mauroy,LOSC,EA Guingamp,3 - 0
+29,4,26/08/2018 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,AS Monaco,2 - 1
+30,4,26/08/2018 21:00,Stade Vélodrome,Olympique de Marseille,Stade Rennais FC,2 - 2
+31,5,31/08/2018 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,OGC Nice,0 - 1
+32,5,01/09/2018 17:00,Stade des Costières,Nîmes Olympique,Paris Saint-Germain,2 - 4
+33,5,01/09/2018 20:00,Stade Raymond Kopa,Angers SCO,LOSC,1 - 0
+34,5,01/09/2018 20:00,Stade Gaston Gérard,Dijon FCO,SM Caen,0 - 2
+35,5,01/09/2018 20:00,Stade de Roudourou,EA Guingamp,Toulouse FC,1 - 2
+36,5,01/09/2018 20:00,Stade Auguste-Delaune,Stade de Reims,Montpellier Hérault SC,0 - 1
+37,5,01/09/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,FC Nantes,2 - 3
+38,5,02/09/2018 15:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Amiens SC,0 - 0
+39,5,02/09/2018 17:00,Roazhon Park,Stade Rennais FC,Girondins de Bordeaux,2 - 0
+40,5,02/09/2018 21:00,Stade Louis II,AS Monaco,Olympique de Marseille,2 - 3
+48,6,14/09/2018 19:00,Allianz Riviera,OGC Nice,Stade Rennais FC,2 - 1
+49,6,14/09/2018 20:45,Parc des Princes,Paris Saint-Germain,AS Saint-Etienne,4 - 0
+43,6,15/09/2018 17:00,Stade Michel d'Ornano,SM Caen,Olympique Lyonnais,2 - 2
+41,6,15/09/2018 20:00,Stade de la Licorne,Amiens SC,LOSC,2 - 3
+44,6,15/09/2018 20:00,Stade Gaston Gérard,Dijon FCO,Angers SCO,1 - 3
+46,6,15/09/2018 20:00,Stade de la Mosson,Montpellier Hérault SC,RC Strasbourg Alsace,1 - 1
+50,6,15/09/2018 20:00,Stadium Municipal,Toulouse FC,AS Monaco,1 - 1
+47,6,16/09/2018 15:00,Stade de la Beaujoire,FC Nantes,Stade de Reims,0 - 0
+42,6,16/09/2018 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Nîmes Olympique,3 - 3
+45,6,16/09/2018 21:00,Stade Vélodrome,Olympique de Marseille,EA Guingamp,4 - 0
+54,7,21/09/2018 20:45,Stade Louis II,AS Monaco,Nîmes Olympique,1 - 1
+53,7,22/09/2018 17:00,Stade Pierre-Mauroy,LOSC,FC Nantes,2 - 1
+51,7,22/09/2018 20:00,Stade Raymond Kopa,Angers SCO,Toulouse FC,0 - 0
+55,7,22/09/2018 20:00,Stade de la Mosson,Montpellier Hérault SC,OGC Nice,1 - 0
+56,7,22/09/2018 20:00,Stade Auguste-Delaune,Stade de Reims,Dijon FCO,0 - 0
+58,7,22/09/2018 20:00,Stade Geoffroy-Guichard,AS Saint-Etienne,SM Caen,2 - 1
+59,7,22/09/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,Amiens SC,3 - 1
+57,7,23/09/2018 15:00,Roazhon Park,Stade Rennais FC,Paris Saint-Germain,1 - 3
+52,7,23/09/2018 17:00,Stade de Roudourou,EA Guingamp,Girondins de Bordeaux,1 - 3
+60,7,23/09/2018 21:00,Parc Olympique Lyonnais,Olympique Lyonnais,Olympique de Marseille,4 - 2
+66,8,25/09/2018 19:00,Stade Louis II,AS Monaco,Angers SCO,0 - 1
+67,8,25/09/2018 19:00,Stade de la Beaujoire,FC Nantes,OGC Nice,1 - 2
+70,8,25/09/2018 21:00,Stadium Municipal,Toulouse FC,AS Saint-Etienne,2 - 3
+61,8,26/09/2018 19:00,Stade de la Licorne,Amiens SC,Stade Rennais FC,2 - 1
+62,8,26/09/2018 19:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,LOSC,1 - 0
+63,8,26/09/2018 19:00,Stade Michel d'Ornano,SM Caen,Montpellier Hérault SC,2 - 2
+65,8,26/09/2018 19:00,Stade Vélodrome,Olympique de Marseille,RC Strasbourg Alsace,3 - 0
+68,8,26/09/2018 19:00,Stade des Costières,Nîmes Olympique,EA Guingamp,0 - 0
+64,8,26/09/2018 20:00,Stade Gaston Gérard,Dijon FCO,Olympique Lyonnais,0 - 3
+69,8,26/09/2018 21:00,Parc des Princes,Paris Saint-Germain,Stade de Reims,4 - 1
+79,9,28/09/2018 20:45,Stade Geoffroy-Guichard,AS Saint-Etienne,AS Monaco,2 - 0
+76,9,29/09/2018 17:15,Allianz Riviera,OGC Nice,Paris Saint-Germain,0 - 3
+71,9,29/09/2018 20:00,Stade Raymond Kopa,Angers SCO,EA Guingamp,0 - 1
+72,9,29/09/2018 20:00,Stade Michel d'Ornano,SM Caen,Amiens SC,1 - 0
+74,9,29/09/2018 20:00,Parc Olympique Lyonnais,Olympique Lyonnais,FC Nantes,1 - 1
+77,9,29/09/2018 20:00,Stade Auguste-Delaune,Stade de Reims,Girondins de Bordeaux,0 - 0
+80,9,29/09/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,Dijon FCO,3 - 0
+78,9,30/09/2018 15:00,Roazhon Park,Stade Rennais FC,Toulouse FC,1 - 1
+75,9,30/09/2018 17:00,Stade de la Mosson,Montpellier Hérault SC,Nîmes Olympique,3 - 0
+73,9,30/09/2018 21:00,Stade Pierre-Mauroy,LOSC,Olympique de Marseille,3 - 0
+89,10,05/10/2018 20:45,Stadium Municipal,Toulouse FC,OGC Nice,1 - 1
+85,10,06/10/2018 17:00,Stade Pierre-Mauroy,LOSC,AS Saint-Etienne,3 - 1
+81,10,06/10/2018 20:00,Stade de la Licorne,Amiens SC,Dijon FCO,1 - 0
+82,10,06/10/2018 20:00,Stade Raymond Kopa,Angers SCO,RC Strasbourg Alsace,2 - 2
+84,10,06/10/2018 20:00,Stade de Roudourou,EA Guingamp,Montpellier Hérault SC,1 - 1
+88,10,06/10/2018 20:00,Stade des Costières,Nîmes Olympique,Stade de Reims,0 - 0
+83,10,07/10/2018 15:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,FC Nantes,3 - 0
+86,10,07/10/2018 17:00,Stade Vélodrome,Olympique de Marseille,SM Caen,2 - 0
+87,10,07/10/2018 17:00,Stade Louis II,AS Monaco,Stade Rennais FC,1 - 2
+90,10,07/10/2018 21:00,Parc des Princes,Paris Saint-Germain,Olympique Lyonnais,5 - 0
+93,11,19/10/2018 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,Nîmes Olympique,2 - 0
+97,11,20/10/2018 17:00,Parc des Princes,Paris Saint-Germain,Amiens SC,5 - 0
+91,11,20/10/2018 20:00,Stade Michel d'Ornano,SM Caen,EA Guingamp,0 - 0
+92,11,20/10/2018 20:00,Stade Gaston Gérard,Dijon FCO,LOSC,1 - 2
+95,11,20/10/2018 20:00,Stade de la Beaujoire,FC Nantes,Toulouse FC,4 - 0
+98,11,20/10/2018 20:00,Stade Auguste-Delaune,Stade de Reims,Angers SCO,1 - 1
+100,11,20/10/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,AS Monaco,2 - 1
+94,11,21/10/2018 15:00,Stade de la Mosson,Montpellier Hérault SC,Girondins de Bordeaux,2 - 0
+99,11,21/10/2018 17:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Stade Rennais FC,1 - 1
+96,11,21/10/2018 21:00,Allianz Riviera,OGC Nice,Olympique de Marseille,0 - 1
+107,12,26/10/2018 20:45,Stade des Costières,Nîmes Olympique,AS Saint-Etienne,1 - 1
+102,12,27/10/2018 17:00,Stade Raymond Kopa,Angers SCO,Olympique Lyonnais,1 - 2
+101,12,27/10/2018 20:00,Stade de la Licorne,Amiens SC,FC Nantes,1 - 2
+104,12,27/10/2018 20:00,Stade de Roudourou,EA Guingamp,RC Strasbourg Alsace,1 - 1
+105,12,27/10/2018 20:00,Stade Pierre-Mauroy,LOSC,SM Caen,1 - 0
+106,12,27/10/2018 20:00,Stade Louis II,AS Monaco,Dijon FCO,2 - 2
+109,12,27/10/2018 20:00,Stadium Municipal,Toulouse FC,Montpellier Hérault SC,0 - 3
+108,12,28/10/2018 15:00,Roazhon Park,Stade Rennais FC,Stade de Reims,0 - 2
+103,12,28/10/2018 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,OGC Nice,0 - 1
+110,12,28/10/2018 21:00,Stade Vélodrome,Olympique de Marseille,Paris Saint-Germain,0 - 2
+117,13,02/11/2018 20:45,Parc des Princes,Paris Saint-Germain,LOSC,2 - 1
+113,13,03/11/2018 17:00,Parc Olympique Lyonnais,Olympique Lyonnais,Girondins de Bordeaux,1 - 1
+111,13,03/11/2018 20:00,Stade Michel d'Ornano,SM Caen,Stade Rennais FC,1 - 2
+112,13,03/11/2018 20:00,Stade Gaston Gérard,Dijon FCO,Nîmes Olympique,0 - 4
+116,13,03/11/2018 20:00,Allianz Riviera,OGC Nice,Amiens SC,1 - 0
+118,13,03/11/2018 20:00,Stade Auguste-Delaune,Stade de Reims,AS Monaco,1 - 0
+120,13,03/11/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,Toulouse FC,1 - 1
+115,13,04/11/2018 15:00,Stade de la Beaujoire,FC Nantes,EA Guingamp,5 - 0
+119,13,04/11/2018 17:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Angers SCO,4 - 3
+114,13,04/11/2018 21:00,Stade de la Mosson,Montpellier Hérault SC,Olympique de Marseille,3 - 0
+124,14,09/11/2018 20:45,Stade Pierre-Mauroy,LOSC,RC Strasbourg Alsace,0 - 0
+123,14,10/11/2018 17:00,Stade de Roudourou,EA Guingamp,Olympique Lyonnais,2 - 4
+121,14,10/11/2018 20:00,Stade Raymond Kopa,Angers SCO,Montpellier Hérault SC,1 - 0
+126,14,10/11/2018 20:00,Stade des Costières,Nîmes Olympique,OGC Nice,0 - 1
+128,14,10/11/2018 20:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Stade de Reims,2 - 0
+129,14,10/11/2018 20:00,Stadium Municipal,Toulouse FC,Amiens SC,0 - 1
+122,14,11/11/2018 15:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,SM Caen,0 - 0
+125,14,11/11/2018 17:00,Stade Vélodrome,Olympique de Marseille,Dijon FCO,2 - 0
+127,14,11/11/2018 17:00,Roazhon Park,Stade Rennais FC,FC Nantes,1 - 1
+130,14,11/11/2018 21:00,Stade Louis II,AS Monaco,Paris Saint-Germain,0 - 4
+134,15,23/11/2018 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,AS Saint-Etienne,1 - 0
+138,15,24/11/2018 17:00,Parc des Princes,Paris Saint-Germain,Toulouse FC,1 - 0
+132,15,24/11/2018 20:00,Stade Michel d'Ornano,SM Caen,AS Monaco,0 - 1
+133,15,24/11/2018 20:00,Stade Gaston Gérard,Dijon FCO,Girondins de Bordeaux,0 - 0
+136,15,24/11/2018 20:00,Stade de la Beaujoire,FC Nantes,Angers SCO,1 - 1
+139,15,24/11/2018 20:00,Stade Auguste-Delaune,Stade de Reims,EA Guingamp,2 - 1
+140,15,24/11/2018 20:00,Stade de la Meinau,RC Strasbourg Alsace,Nîmes Olympique,0 - 1
+135,15,25/11/2018 15:00,Stade de la Mosson,Montpellier Hérault SC,Stade Rennais FC,2 - 2
+137,15,25/11/2018 17:00,Allianz Riviera,OGC Nice,LOSC,2 - 0
+131,15,25/11/2018 21:00,Stade de la Licorne,Amiens SC,Olympique de Marseille,1 - 3
+149,16,30/11/2018 20:45,Stade Geoffroy-Guichard,AS Saint-Etienne,FC Nantes,3 - 0
+144,16,01/12/2018 17:00,Stade Pierre-Mauroy,LOSC,Olympique Lyonnais,2 - 2
+141,16,01/12/2018 20:00,Stade Raymond Kopa,Angers SCO,SM Caen,1 - 1
+143,16,01/12/2018 20:00,Stade de Roudourou,EA Guingamp,OGC Nice,0 - 0
+146,16,01/12/2018 20:00,Stade Louis II,AS Monaco,Montpellier Hérault SC,1 - 2
+147,16,01/12/2018 20:00,Stade des Costières,Nîmes Olympique,Amiens SC,3 - 0
+150,16,02/12/2018 15:00,Stadium Municipal,Toulouse FC,Dijon FCO,2 - 2
+145,16,02/12/2018 17:00,Stade Vélodrome,Olympique de Marseille,Stade de Reims,0 - 0
+148,16,02/12/2018 17:00,Roazhon Park,Stade Rennais FC,RC Strasbourg Alsace,1 - 4
+142,16,02/12/2018 21:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Paris Saint-Germain,2 - 2
+151,17,04/12/2018 19:00,Stade de la Licorne,Amiens SC,AS Monaco,0 - 2
+158,17,04/12/2018 19:00,Allianz Riviera,OGC Nice,Angers SCO,0 - 0
+156,17,04/12/2018 21:00,Stade de la Mosson,Montpellier Hérault SC,LOSC,0 - 1
+152,17,05/12/2018 19:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,AS Saint-Etienne,3 - 2
+153,17,05/12/2018 19:00,Stade Michel d'Ornano,SM Caen,Nîmes Olympique,1 - 2
+154,17,05/12/2018 19:00,Stade Gaston Gérard,Dijon FCO,EA Guingamp,2 - 1
+155,17,05/12/2018 19:00,Parc Olympique Lyonnais,Olympique Lyonnais,Stade Rennais FC,0 - 2
+157,17,05/12/2018 19:00,Stade de la Beaujoire,FC Nantes,Olympique de Marseille,3 - 2
+159,17,05/12/2018 19:00,Stade Auguste-Delaune,Stade de Reims,Toulouse FC,0 - 1
+160,17,05/12/2018 21:00,Stade de la Meinau,RC Strasbourg Alsace,Paris Saint-Germain,1 - 1
+162,18,08/12/2018 20:00,Stade de Roudourou,EA Guingamp,Amiens SC,1 - 2
+167,18,08/12/2018 20:00,Roazhon Park,Stade Rennais FC,Dijon FCO,2 - 0
+169,18,09/12/2018 15:00,Stade de la Meinau,RC Strasbourg Alsace,SM Caen,2 - 2
+163,18,09/12/2018 17:00,Stade Pierre-Mauroy,LOSC,Stade de Reims,1 - 1
+181,19,22/12/2018 21:00,Stade Raymond Kopa,Angers SCO,Olympique de Marseille,1 - 1
+183,19,22/12/2018 21:00,Stade Pierre-Mauroy,LOSC,Toulouse FC,1 - 2
+184,19,22/12/2018 21:00,Stade Louis II,AS Monaco,EA Guingamp,0 - 2
+185,19,22/12/2018 21:00,Stade de la Mosson,Montpellier Hérault SC,Olympique Lyonnais,1 - 1
+186,19,22/12/2018 21:00,Parc des Princes,Paris Saint-Germain,FC Nantes,1 - 0
+187,19,22/12/2018 21:00,Stade Auguste-Delaune,Stade de Reims,SM Caen,2 - 2
+188,19,22/12/2018 21:00,Roazhon Park,Stade Rennais FC,Nîmes Olympique,4 - 0
+189,19,22/12/2018 21:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Dijon FCO,3 - 0
+190,19,22/12/2018 21:00,Stade de la Meinau,RC Strasbourg Alsace,OGC Nice,2 - 0
+182,19,23/12/2018 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Amiens SC,1 - 1
+171,20,08/01/2019 19:00,Stade de la Licorne,Amiens SC,Angers SCO,0 - 0
+177,20,08/01/2019 19:00,Stade de la Beaujoire,FC Nantes,Montpellier Hérault SC,2 - 0
+192,20,11/01/2019 19:00,Stade Michel d'Ornano,SM Caen,LOSC,1 - 3
+195,20,11/01/2019 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,Stade de Reims,1 - 1
+191,20,12/01/2019 17:00,Stade de la Licorne,Amiens SC,Paris Saint-Germain,0 - 3
+194,20,12/01/2019 20:00,Stade de Roudourou,EA Guingamp,AS Saint-Etienne,0 - 1
+197,20,12/01/2019 20:00,Allianz Riviera,OGC Nice,Girondins de Bordeaux,1 - 0
+196,20,13/01/2019 15:00,Stade de la Beaujoire,FC Nantes,Stade Rennais FC,0 - 1
+193,20,13/01/2019 17:00,Stade Gaston Gérard,Dijon FCO,Montpellier Hérault SC,1 - 1
+199,20,13/01/2019 17:00,Stadium Municipal,Toulouse FC,RC Strasbourg Alsace,1 - 2
+200,20,13/01/2019 21:00,Stade Vélodrome,Olympique de Marseille,AS Monaco,1 - 1
+161,21,15/01/2019 19:00,Stade Raymond Kopa,Angers SCO,Girondins de Bordeaux,1 - 2
+164,21,16/01/2019 19:00,Stade Louis II,AS Monaco,OGC Nice,1 - 1
+165,21,16/01/2019 19:00,Stade des Costières,Nîmes Olympique,FC Nantes,1 - 0
+170,21,16/01/2019 19:00,Stadium Municipal,Toulouse FC,Olympique Lyonnais,2 - 2
+174,21,16/01/2019 19:00,Stade de Roudourou,EA Guingamp,Stade Rennais FC,2 - 1
+168,21,16/01/2019 21:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Olympique de Marseille,2 - 1
+204,22,18/01/2019 20:45,Stade Pierre-Mauroy,LOSC,Amiens SC,2 - 1
+207,22,19/01/2019 17:00,Parc des Princes,Paris Saint-Germain,EA Guingamp,9 - 0
+205,22,19/01/2019 20:00,Stade Louis II,AS Monaco,RC Strasbourg Alsace,1 - 5
+206,22,19/01/2019 20:00,Stade des Costières,Nîmes Olympique,Toulouse FC,0 - 1
+208,22,19/01/2019 20:00,Stade Auguste-Delaune,Stade de Reims,OGC Nice,1 - 1
+209,22,20/01/2019 15:00,Roazhon Park,Stade Rennais FC,Montpellier Hérault SC,0 - 0
+201,22,20/01/2019 17:00,Stade Raymond Kopa,Angers SCO,FC Nantes,1 - 0
+203,22,20/01/2019 17:00,Stade Michel d'Ornano,SM Caen,Olympique de Marseille,0 - 1
+202,22,20/01/2019 19:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Dijon FCO,1 - 0
+210,22,20/01/2019 21:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Olympique Lyonnais,1 - 2
+198,22,23/01/2019 19:00,Stade des Costières,Nîmes Olympique,Angers SCO,3 - 1
+212,23,26/01/2019 20:00,Stade Gaston Gérard,Dijon FCO,AS Monaco,2 - 0
+213,23,26/01/2019 20:00,Stade de Roudourou,EA Guingamp,Stade de Reims,0 - 1
+214,23,26/01/2019 20:00,Stade Vélodrome,Olympique de Marseille,LOSC,1 - 2
+217,23,26/01/2019 20:00,Allianz Riviera,OGC Nice,Nîmes Olympique,2 - 0
+219,23,26/01/2019 20:00,Stade de la Meinau,RC Strasbourg Alsace,Girondins de Bordeaux,1 - 0
+215,23,27/01/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,SM Caen,2 - 0
+211,23,27/01/2019 17:00,Stade de la Licorne,Amiens SC,Olympique Lyonnais,0 - 1
+220,23,27/01/2019 20:00,Stadium Municipal,Toulouse FC,Angers SCO,0 - 0
+218,23,27/01/2019 21:00,Parc des Princes,Paris Saint-Germain,Stade Rennais FC,4 - 1
+216,23,30/01/2019 21:00,Stade de la Beaujoire,FC Nantes,AS Saint-Etienne,1 - 1
+224,24,01/02/2019 20:45,Stade Pierre-Mauroy,LOSC,OGC Nice,4 - 0
+221,24,02/02/2019 20:00,Stade Raymond Kopa,Angers SCO,Dijon FCO,1 - 0
+225,24,02/02/2019 20:00,Stade Louis II,AS Monaco,Toulouse FC,2 - 1
+228,24,02/02/2019 20:00,Roazhon Park,Stade Rennais FC,Amiens SC,1 - 0
+227,24,02/02/2019 21:00,Stade Auguste-Delaune,Stade de Reims,Olympique de Marseille,2 - 1
+226,24,03/02/2019 15:00,Stade des Costières,Nîmes Olympique,Montpellier Hérault SC,1 - 1
+230,24,03/02/2019 21:00,Parc Olympique Lyonnais,Olympique Lyonnais,Paris Saint-Germain,2 - 1
+176,24,05/02/2019 19:00,Stade Vélodrome,Olympique de Marseille,Girondins de Bordeaux,1 - 0
+232,25,08/02/2019 20:45,Stade Gaston Gérard,Dijon FCO,Olympique de Marseille,1 - 2
+237,25,09/02/2019 17:00,Parc des Princes,Paris Saint-Germain,Girondins de Bordeaux,1 - 0
+231,25,09/02/2019 20:00,Stade de la Licorne,Amiens SC,SM Caen,1 - 0
+239,25,09/02/2019 20:00,Stade de la Meinau,RC Strasbourg Alsace,Angers SCO,1 - 2
+234,25,10/02/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,AS Monaco,2 - 2
+235,25,10/02/2019 15:00,Stade de la Beaujoire,FC Nantes,Nîmes Olympique,2 - 4
+240,25,10/02/2019 15:00,Stadium Municipal,Toulouse FC,Stade de Reims,1 - 1
+233,25,10/02/2019 17:00,Stade de Roudourou,EA Guingamp,LOSC,0 - 2
+238,25,10/02/2019 17:00,Roazhon Park,Stade Rennais FC,AS Saint-Etienne,3 - 0
+236,25,10/02/2019 21:00,Allianz Riviera,OGC Nice,Olympique Lyonnais,1 - 0
+229,25,13/02/2019 19:00,Stade Geoffroy-Guichard,AS Saint-Etienne,RC Strasbourg Alsace,2 - 1
+223,25,13/02/2019 19:30,Stade Michel d'Ornano,SM Caen,FC Nantes,0 - 1
+248,26,15/02/2019 19:00,Stade des Costières,Nîmes Olympique,Dijon FCO,2 - 0
+245,26,15/02/2019 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,EA Guingamp,2 - 1
+246,26,16/02/2019 17:00,Stade Vélodrome,Olympique de Marseille,Amiens SC,2 - 0
+241,26,16/02/2019 20:00,Stade Raymond Kopa,Angers SCO,OGC Nice,3 - 0
+247,26,16/02/2019 20:00,Stade Louis II,AS Monaco,FC Nantes,1 - 0
+242,26,17/02/2019 15:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Toulouse FC,2 - 1
+243,26,17/02/2019 15:00,Stade Michel d'Ornano,SM Caen,RC Strasbourg Alsace,0 - 0
+244,26,17/02/2019 15:00,Stade Pierre-Mauroy,LOSC,Montpellier Hérault SC,0 - 0
+249,26,17/02/2019 17:00,Stade Auguste-Delaune,Stade de Reims,Stade Rennais FC,2 - 0
+250,26,17/02/2019 21:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Paris Saint-Germain,0 - 1
+222,26,20/02/2019 19:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,EA Guingamp,0 - 0
+166,26,20/02/2019 21:00,Parc des Princes,Paris Saint-Germain,Montpellier Hérault SC,5 - 1
+252,27,22/02/2019 19:00,Stade Gaston Gérard,Dijon FCO,AS Saint-Etienne,0 - 1
+258,27,22/02/2019 20:45,Stade de la Meinau,RC Strasbourg Alsace,LOSC,1 - 1
+256,27,23/02/2019 17:00,Parc des Princes,Paris Saint-Germain,Nîmes Olympique,3 - 0
+251,27,23/02/2019 20:00,Stade de la Licorne,Amiens SC,OGC Nice,1 - 0
+253,27,23/02/2019 20:00,Stade de Roudourou,EA Guingamp,Angers SCO,1 - 0
+254,27,24/02/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,Stade de Reims,2 - 4
+255,27,24/02/2019 15:00,Stade de la Beaujoire,FC Nantes,Girondins de Bordeaux,1 - 0
+259,27,24/02/2019 15:00,Stadium Municipal,Toulouse FC,SM Caen,1 - 1
+257,27,24/02/2019 17:00,Roazhon Park,Stade Rennais FC,Olympique de Marseille,1 - 1
+260,27,24/02/2019 21:00,Stade Louis II,AS Monaco,Olympique Lyonnais,2 - 0
+263,28,02/03/2019 17:00,Stade Michel d'Ornano,SM Caen,Paris Saint-Germain,1 - 2
+261,28,02/03/2019 20:00,Stade Raymond Kopa,Angers SCO,AS Monaco,2 - 2
+270,28,02/03/2019 20:00,Stade Auguste-Delaune,Stade de Reims,Amiens SC,2 - 2
+264,28,03/03/2019 15:00,Stade de Roudourou,EA Guingamp,FC Nantes,0 - 0
+265,28,03/03/2019 15:00,Stade Pierre-Mauroy,LOSC,Dijon FCO,1 - 0
+268,28,03/03/2019 15:00,Allianz Riviera,OGC Nice,RC Strasbourg Alsace,1 - 0
+266,28,03/03/2019 17:00,Parc Olympique Lyonnais,Olympique Lyonnais,Toulouse FC,5 - 1
+267,28,03/03/2019 21:00,Stade Vélodrome,Olympique de Marseille,AS Saint-Etienne,2 - 0
+262,28,05/03/2019 19:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Montpellier Hérault SC,1 - 2
+279,29,09/03/2019 17:00,Stade de la Meinau,RC Strasbourg Alsace,Olympique Lyonnais,2 - 2
+271,29,09/03/2019 20:00,Stade de la Licorne,Amiens SC,Nîmes Olympique,2 - 1
+272,29,09/03/2019 20:00,Stade Gaston Gérard,Dijon FCO,Stade de Reims,1 - 1
+274,29,09/03/2019 20:00,Stade Louis II,AS Monaco,Girondins de Bordeaux,1 - 1
+275,29,10/03/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,Angers SCO,2 - 2
+278,29,10/03/2019 15:00,Stade Geoffroy-Guichard,AS Saint-Etienne,LOSC,0 - 1
+280,29,10/03/2019 15:00,Stadium Municipal,Toulouse FC,EA Guingamp,1 - 0
+277,29,10/03/2019 17:00,Roazhon Park,Stade Rennais FC,SM Caen,3 - 1
+273,29,10/03/2019 21:00,Stade Vélodrome,Olympique de Marseille,OGC Nice,1 - 0
+173,29,12/03/2019 19:00,Stade Gaston Gérard,Dijon FCO,Paris Saint-Germain,0 - 4
+287,30,15/03/2019 19:00,Allianz Riviera,OGC Nice,Toulouse FC,1 - 1
+285,30,15/03/2019 20:45,Stade Pierre-Mauroy,LOSC,AS Monaco,0 - 1
+281,30,16/03/2019 20:00,Stade Raymond Kopa,Angers SCO,Amiens SC,0 - 0
+283,30,16/03/2019 20:00,Stade Michel d'Ornano,SM Caen,AS Saint-Etienne,0 - 5
+284,30,16/03/2019 20:00,Stade de Roudourou,EA Guingamp,Dijon FCO,1 - 0
+288,30,16/03/2019 20:00,Stade des Costières,Nîmes Olympique,RC Strasbourg Alsace,2 - 2
+286,30,17/03/2019 14:30,Parc Olympique Lyonnais,Olympique Lyonnais,Montpellier Hérault SC,3 - 2
+289,30,17/03/2019 15:00,Stade Auguste-Delaune,Stade de Reims,FC Nantes,1 - 0
+282,30,17/03/2019 17:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Stade Rennais FC,1 - 1
+290,30,17/03/2019 21:00,Parc des Princes,Paris Saint-Germain,Olympique de Marseille,3 - 1
+297,31,29/03/2019 20:45,Roazhon Park,Stade Rennais FC,Olympique Lyonnais,0 - 1
+293,31,30/03/2019 17:00,Stade Vélodrome,Olympique de Marseille,Angers SCO,2 - 2
+291,31,31/03/2019 15:00,Stade de la Licorne,Amiens SC,Girondins de Bordeaux,0 - 0
+292,31,31/03/2019 15:00,Stade Gaston Gérard,Dijon FCO,OGC Nice,0 - 1
+294,31,31/03/2019 15:00,Stade Louis II,AS Monaco,SM Caen,0 - 1
+296,31,31/03/2019 17:00,Stade de la Beaujoire,FC Nantes,LOSC,2 - 3
+300,31,31/03/2019 21:00,Stadium Municipal,Toulouse FC,Paris Saint-Germain,0 - 1
+298,31,01/04/2019 20:30,Stade Geoffroy-Guichard,AS Saint-Etienne,Nîmes Olympique,2 - 1
+295,31,03/04/2019 19:00,Stade de la Mosson,Montpellier Hérault SC,EA Guingamp,2 - 0
+299,31,03/04/2019 19:00,Stade de la Meinau,RC Strasbourg Alsace,Stade de Reims,4 - 0
+303,32,05/04/2019 20:45,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Olympique de Marseille,2 - 0
+305,32,06/04/2019 17:00,Parc Olympique Lyonnais,Olympique Lyonnais,Dijon FCO,1 - 3
+301,32,06/04/2019 20:00,Stade de la Licorne,Amiens SC,AS Saint-Etienne,2 - 2
+302,32,06/04/2019 20:00,Stade Raymond Kopa,Angers SCO,Stade Rennais FC,3 - 3
+304,32,06/04/2019 20:00,Stade de Roudourou,EA Guingamp,AS Monaco,1 - 1
+307,32,06/04/2019 20:00,Stade des Costières,Nîmes Olympique,SM Caen,2 - 0
+306,32,07/04/2019 15:00,Allianz Riviera,OGC Nice,Montpellier Hérault SC,1 - 0
+309,32,07/04/2019 15:00,Stade Auguste-Delaune,Stade de Reims,LOSC,1 - 1
+310,32,07/04/2019 15:00,Stadium Municipal,Toulouse FC,FC Nantes,1 - 0
+308,32,07/04/2019 21:00,Parc des Princes,Paris Saint-Germain,RC Strasbourg Alsace,2 - 2
+269,32,09/04/2019 19:00,Stade des Costières,Nîmes Olympique,Stade Rennais FC,3 - 1
+312,33,12/04/2019 19:00,Stade Gaston Gérard,Dijon FCO,Amiens SC,0 - 0
+317,33,12/04/2019 20:45,Stade de la Beaujoire,FC Nantes,Olympique Lyonnais,2 - 1
+314,33,13/04/2019 17:00,Stade Vélodrome,Olympique de Marseille,Nîmes Olympique,2 - 1
+311,33,13/04/2019 20:00,Stade Michel d'Ornano,SM Caen,Angers SCO,0 - 1
+315,33,13/04/2019 20:00,Stade Louis II,AS Monaco,Stade de Reims,0 - 0
+320,33,13/04/2019 20:00,Stade de la Meinau,RC Strasbourg Alsace,EA Guingamp,3 - 3
+316,33,14/04/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,Toulouse FC,2 - 1
+318,33,14/04/2019 15:00,Roazhon Park,Stade Rennais FC,OGC Nice,0 - 0
+319,33,14/04/2019 17:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Girondins de Bordeaux,3 - 0
+313,33,14/04/2019 21:00,Stade Pierre-Mauroy,LOSC,Paris Saint-Germain,5 - 1
+276,33,17/04/2019 19:00,Stade de la Beaujoire,FC Nantes,Paris Saint-Germain,3 - 2
+321,34,19/04/2019 19:00,Stade Gaston Gérard,Dijon FCO,Stade Rennais FC,3 - 2
+323,34,19/04/2019 20:45,Parc Olympique Lyonnais,Olympique Lyonnais,Angers SCO,2 - 1
+322,34,20/04/2019 17:00,Stade de Roudourou,EA Guingamp,Olympique de Marseille,1 - 3
+325,34,20/04/2019 20:00,Allianz Riviera,OGC Nice,SM Caen,0 - 1
+326,34,20/04/2019 20:00,Stade des Costières,Nîmes Olympique,Girondins de Bordeaux,2 - 1
+328,34,20/04/2019 20:00,Stade de la Meinau,RC Strasbourg Alsace,Montpellier Hérault SC,1 - 3
+324,34,21/04/2019 15:00,Stade de la Beaujoire,FC Nantes,Amiens SC,3 - 2
+329,34,21/04/2019 15:00,Stadium Municipal,Toulouse FC,LOSC,0 - 0
+327,34,21/04/2019 17:00,Stade Auguste-Delaune,Stade de Reims,AS Saint-Etienne,0 - 2
+330,34,21/04/2019 21:00,Parc des Princes,Paris Saint-Germain,AS Monaco,3 - 1
+333,35,26/04/2019 20:45,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Olympique Lyonnais,2 - 3
+331,35,28/04/2019 15:00,Stade de la Licorne,Amiens SC,RC Strasbourg Alsace,0 - 0
+332,35,28/04/2019 15:00,Stade Raymond Kopa,Angers SCO,Stade de Reims,1 - 1
+334,35,28/04/2019 15:00,Stade Michel d'Ornano,SM Caen,Dijon FCO,1 - 0
+335,35,28/04/2019 15:00,Stade Pierre-Mauroy,LOSC,Nîmes Olympique,5 - 0
+338,35,28/04/2019 15:00,Allianz Riviera,OGC Nice,EA Guingamp,3 - 0
+340,35,28/04/2019 17:00,Stade Geoffroy-Guichard,AS Saint-Etienne,Toulouse FC,2 - 0
+336,35,28/04/2019 21:00,Stade Vélodrome,Olympique de Marseille,FC Nantes,1 - 2
+337,35,30/04/2019 19:00,Stade de la Mosson,Montpellier Hérault SC,Paris Saint-Germain,3 - 2
+339,35,01/05/2019 19:00,Roazhon Park,Stade Rennais FC,AS Monaco,2 - 2
+349,36,03/05/2019 20:45,Stade de la Meinau,RC Strasbourg Alsace,Olympique de Marseille,1 - 1
+347,36,04/05/2019 17:00,Parc des Princes,Paris Saint-Germain,OGC Nice,1 - 1
+341,36,04/05/2019 20:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Angers SCO,0 - 1
+342,36,04/05/2019 20:00,Stade de Roudourou,EA Guingamp,SM Caen,0 - 0
+348,36,04/05/2019 20:00,Stade Auguste-Delaune,Stade de Reims,Nîmes Olympique,0 - 3
+345,36,05/05/2019 15:00,Stade de la Mosson,Montpellier Hérault SC,Amiens SC,1 - 1
+346,36,05/05/2019 15:00,Stade de la Beaujoire,FC Nantes,Dijon FCO,3 - 0
+350,36,05/05/2019 15:00,Stadium Municipal,Toulouse FC,Stade Rennais FC,2 - 2
+344,36,05/05/2019 17:00,Stade Louis II,AS Monaco,AS Saint-Etienne,2 - 3
+343,36,05/05/2019 21:00,Parc Olympique Lyonnais,Olympique Lyonnais,LOSC,2 - 2
+359,37,10/05/2019 20:45,Stade Geoffroy-Guichard,AS Saint-Etienne,Montpellier Hérault SC,0 - 1
+352,37,11/05/2019 17:00,Stade Raymond Kopa,Angers SCO,Paris Saint-Germain,1 - 2
+351,37,11/05/2019 20:00,Stade de la Licorne,Amiens SC,Toulouse FC,0 - 0
+353,37,11/05/2019 20:00,Stade Michel d'Ornano,SM Caen,Stade de Reims,3 - 2
+354,37,11/05/2019 20:00,Stade Gaston Gérard,Dijon FCO,RC Strasbourg Alsace,2 - 1
+356,37,11/05/2019 20:00,Allianz Riviera,OGC Nice,FC Nantes,1 - 1
+357,37,11/05/2019 20:00,Stade des Costières,Nîmes Olympique,AS Monaco,1 - 0
+358,37,12/05/2019 15:00,Roazhon Park,Stade Rennais FC,EA Guingamp,1 - 1
+355,37,12/05/2019 17:00,Stade Pierre-Mauroy,LOSC,Girondins de Bordeaux,1 - 0
+360,37,12/05/2019 21:00,Stade Vélodrome,Olympique de Marseille,Olympique Lyonnais,0 - 3
+361,38,18/05/2019 21:00,Nouveau Stade de Bordeaux,Girondins de Bordeaux,Stade de Reims,0 - 1
+362,38,18/05/2019 21:00,Stade de Roudourou,EA Guingamp,Nîmes Olympique,2 - 2
+363,38,18/05/2019 21:00,Stade Pierre-Mauroy,LOSC,Angers SCO,5 - 0
+364,38,18/05/2019 21:00,Parc Olympique Lyonnais,Olympique Lyonnais,SM Caen,4 - 0
+365,38,18/05/2019 21:00,Stade Louis II,AS Monaco,Amiens SC,2 - 0
+366,38,18/05/2019 21:00,Stade de la Mosson,Montpellier Hérault SC,FC Nantes,1 - 1
+367,38,18/05/2019 21:00,Parc des Princes,Paris Saint-Germain,Dijon FCO,4 - 0
+368,38,18/05/2019 21:00,Stade Geoffroy-Guichard,AS Saint-Etienne,OGC Nice,3 - 0
+369,38,18/05/2019 21:00,Stade de la Meinau,RC Strasbourg Alsace,Stade Rennais FC,0 - 2
+370,38,18/05/2019 21:00,Stadium Municipal,Toulouse FC,Olympique de Marseille,2 - 5
+371,39,24/05/2019 21:05,Stade de la Licorne,Amiens SC,EA Guingamp,2 - 1
+372,39,24/05/2019 21:05,Stade Raymond Kopa,Angers SCO,AS Saint-Etienne,1 - 1
+373,39,24/05/2019 21:05,Stade Michel d'Ornano,SM Caen,Girondins de Bordeaux,0 - 1
+374,39,24/05/2019 21:05,Stade Gaston Gérard,Dijon FCO,Toulouse FC,2 - 1
+375,39,24/05/2019 21:05,Stade Vélodrome,Olympique de Marseille,Montpellier Hérault SC,1 - 0
+376,39,24/05/2019 21:05,Stade de la Beaujoire,FC Nantes,RC Strasbourg Alsace,0 - 1
+377,39,24/05/2019 21:05,Allianz Riviera,OGC Nice,AS Monaco,2 - 0
+378,39,24/05/2019 21:05,Stade des Costières,Nîmes Olympique,Olympique Lyonnais,2 - 3
+379,39,24/05/2019 21:05,Stade Auguste-Delaune,Stade de Reims,Paris Saint-Germain,3 - 1
+380,39,24/05/2019 21:05,Roazhon Park,Stade Rennais FC,LOSC,3 - 1
