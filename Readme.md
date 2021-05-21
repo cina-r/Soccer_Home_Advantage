@@ -9,14 +9,14 @@ In order to have a significant amount of data, I've collected fixtures and resul
 Note that I've excluded the last two matchdays of the English Premier League from the analysis because, at this stage, (a limited amount of) fans were allowed to enter the stadium again.  
 
 ### Data Source:  
-https://fixturedownload.com/results/bundesliga-2018
+https://fixturedownload.com/results/bundesliga-2018  
 https://fixturedownload.com/results/serie-a-2018  
-https://fixturedownload.com/results/la-liga-2018
-https://fixturedownload.com/results/epl-2018
-https://fixturedownload.com/results/ligue-1-2018
+https://fixturedownload.com/results/la-liga-2018  
+https://fixturedownload.com/results/epl-2018  
+https://fixturedownload.com/results/ligue-1-2018  
 
-https://fixturedownload.com/results/bundesliga-2020 
+https://fixturedownload.com/results/bundesliga-2020  
 https://fixturedownload.com/results/serie-a-2020  
-https://fixturedownload.com/results/la-liga-2020
-https://fixturedownload.com/results/epl-2020
-https://fixturedownload.com/results/ligue-1-2020
+https://fixturedownload.com/results/la-liga-2020  
+https://fixturedownload.com/results/epl-2020  
+https://fixturedownload.com/results/ligue-1-2020  
