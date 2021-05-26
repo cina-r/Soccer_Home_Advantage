@@ -26,5 +26,6 @@ Note that I've excluded the last two matchdays of the English Premier League fro
 
 ## Results
 ### Home Win 
-![Home Team Victories [%]](plots//europe_home_win_percentages.png)
-In the image above, you can see the percentage of all matches that were won by the home team, plotted for Europe's top 5 leagues in the mentioned seasons. Averaging over all five leagues yields a home win ratio of $44.8%$ in the pre-covid season 18/19 and $40.8%$ in the covid-season 20/21.  
+![Home Team Victories [%]](plots//europe_home_win_percentages.png)  
+In the image above, you can see the percentage of all matches that were won by the home team, plotted for Europe's top 5 leagues in the mentioned seasons. Averaging over all five leagues yields a home win ratio of 44.8%$ in the pre-covid season 18/19 and $40.8%$ in the covid-season 20/21.   
+$$ a + b $$
