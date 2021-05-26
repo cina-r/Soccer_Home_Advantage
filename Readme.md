@@ -3,6 +3,7 @@
 ## Goal
 Due to the COVID-19 pandemic, the football/soccer season 2020/21 was very special since (nearly) all professional matches were played in **empty stadiums**. For football enthusiasts like me, this is a real bummer. However, it offers the **unique opportunity** to statistically study the influence of fans on the team performance.
 
+
 ## Data
 ### Data Description
 In order to have a significant amount of data, I've collected fixtures and results from Europe's top 5 leagues (according to the [official UEFA ranking](https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2021)) in the seasons 2018/19 and 2020/21. Season 18/19 is the last one that ended before the start of the pandemic and is therefore chosen to represent a &#8216;regular&#8217; season, whereas season 20/21 lies completely in the pandemic and (almost) all matches are played without spectators.   
@@ -21,3 +22,9 @@ Note that I've excluded the last two matchdays of the English Premier League fro
 * https://fixturedownload.com/results/la-liga-2020  
 * https://fixturedownload.com/results/epl-2020  
 * https://fixturedownload.com/results/ligue-1-2020  
+
+
+## Results
+### Home Win 
+![Home Team Victories [%]](/europe_home_win_percentages.png)
+In the image above, you can see the percentage of all matches that were won by the home team, plotted for Europe's top 5 leagues in the mentioned seasons. Averaging over all five leagues yields a home win ratio of $44.8%$ in the pre-covid season 18/19 and $40.8%$ in the covid-season 20/21.  
