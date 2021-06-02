@@ -34,8 +34,8 @@ In the image above, you can see the percentage of all matches that were won by t
 The second image shows the same plot as the first one but with **away** instead of home team win percentage. Equivalently, we see a lower average value in season 18/19 with 29.6% than in 20/21 with 34.2%. The chance of winning an away game decreases by 4.6% with spectators in the stadium. Note that home and away team ratios are not perfectly correlated since in league football a draw is also a possible match result. 
 
 ### Table Position 
-![Home Team Victories of top, mediocre and bottom teams in EPL [%]](plots//epl_top_medi_bottom.png)   
 The English Premier League (EPL) shows the highest discrepancy between the seasons' average home win ratios with a diffence of 11%. Let's take a deeper look into the EPL!  
+![Home Team Victories of top, mediocre and bottom teams in EPL [%]](plots//epl_top_medi_bottom.png)   
 I've split the teams within each season into top (1-7), mediocre (7-13) and bottom (14-20) teams and investigated the home win ratios seperately for each of those three groups. As you can clearly see, the effect is much higher for the top teams than for the mediocre and bottom teams. It seems like success goes hand in hand with having a vibrant fan support in the own stadium.   
 
 #### General remark
