@@ -27,10 +27,10 @@ Note that I've excluded the last two matchdays of the English Premier League fro
 ## Results
 ### Home Win 
 ![Home Team Victories [%]](plots//europe_home_win_percentages.png)  
-In the image above, you can see the percentage of all matches that were won by the **home** team, plotted for Europe's top 5 leagues in the mentioned seasons. Averaging over all five leagues yields a home win ratio of (44.8&#177;1.7) %  in the pre-covid season 18/19 and (40.8&#177;2.1) % in the covid-season 20/21.  
+In the image above, you can see the percentage of all matches that were won by the **home** team, plotted for Europe's top 5 leagues in the mentioned seasons. Averaging over all five leagues yields a home win ratio of 44.8%  in the pre-covid season 18/19 and 40.8% in the covid-season 20/21.  
 ![Away Team Victories [%]](plots//europe_away_win_percentages.png)   
 The second image shows the same plot as the first one but with **away** instead of home team percentage. Equivalently, we see a lower average value in season 18/19 with 29.6% than in 20/21 with 34.2%. Note that home and away team ratios are not perfectly correlated since in league football a draw is also a possible match result.  
   
 Summarized, the chances of winning a home game or losing an away game, respectively, change by approximately *5%*
   
-The English Premier League clearly shows the highest discrepancy between the seasons' average home win ratios. Taking a deeper look 
+The English Premier League shows the highest discrepancy between the seasons' average home win ratios with a diffence of 48 - 37 = 11%. Let's take a deeper look into the EPL! I've split the teams within each season into top (1-7), mediocre (7-13) and bottom (14-20) teams and investigated the home win ratios seperately for each of those three groups. As you can clearly see, the difference between the seasons is much higher for the top clubs.  
