@@ -37,6 +37,7 @@ The second image shows the same plot as the first one but with **away** instead 
 The English Premier League (EPL) shows the highest discrepancy between the seasons' average home win ratios with a diffence of 11%. Let's take a deeper look into the EPL!  
 ![Home Team Victories of top, mediocre and bottom teams in EPL [%]](plots//epl_top_medi_bottom.png)   
 I've split the teams within each season into top (1-7), mediocre (7-13) and bottom (14-20) teams and investigated the home win ratios seperately for each of those three groups. As you can clearly see, the effect is much higher for the top teams than for the mediocre and bottom teams. It seems like success goes hand in hand with having a vibrant fan support in the own stadium.   
-
+  
+    
 **General remark**:  
 Correlation doesn't necessarily imply causality - the results are partly my personal interpretation. 
