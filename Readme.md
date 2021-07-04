@@ -1,5 +1,14 @@
 # Soccer Home Advantage
 
+## Setting up the virtual environment
+
+1. >pip install virtualenv
+2. >python -m venv env
+3. > cd .\env\Scripts
+4. >activate
+5. >pip install -r requirements.txt
+6. >python -m ipykernel install --name=\<choose-a-name-to-be-displayed-in-jupyter\>
+
 ## Goal
 Due to the COVID-19 pandemic, the football/soccer season 2020/21 was very special since (nearly) all professional matches were played in **empty stadiums**. For football enthusiasts like me, this is a real bummer. However, it offers the **unique opportunity** to statistically study the influence of fans on the team performance.
 
